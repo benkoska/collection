@@ -1,0 +1,19 @@
+{
+    "name": "Ben Koska Packages",
+    "overview": "This is a package collection containing all of my packages.",
+    "keywords": ["benkoska"],
+    "packages": [
+      {
+        "url": "https://github.com/benkoska/swiftui-navigation.git",
+        "summary": "A SwiftUI Navigation Library",
+        "keywords": ["swiftui navigaiton"],
+        "versions": ["0.1.0"],
+        "excludedProducts": [],
+        "excludedTargets": [],
+        "readmeURL": "https://github.com/benkoska/swiftui-navigation/blob/master/README.md"
+      },
+    ],
+    "author": {
+      "name": "Ben Koska"
+    }
+  }
